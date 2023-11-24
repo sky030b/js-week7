@@ -260,7 +260,7 @@ body {
 }
 
 .regionSearch {
-  width: 27.5%;
+  width: 35%;
   min-height: 38px;
   text-indent: 0.5rem;
   color: #818A91;
@@ -445,4 +445,27 @@ body {
   .cantFind-area {
     margin-top: 0px;
   }
+}
+
+.mx-auto {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container-30 {
+  width: 30%;
+}
+
+.container-70 {
+  width: 70%;
+}
+
+.wrap {
+  max-width: 920px;
+  padding: 30px 0;
+  align-items: start;
+}
+
+.flex {
+  display: flex;
 }
